@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547656906847.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AAE651E",
+    "lastKnownWriteTime" : 1547656930,
+    "last_content_update" : 1547656930783,
+    "path" : "~/github/programming-with-R/sandbox/chapter-1.R",
+    "project_path" : "sandbox/chapter-1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
