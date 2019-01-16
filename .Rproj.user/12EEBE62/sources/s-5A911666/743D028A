@@ -7,11 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "743D028A",
-    "lastKnownWriteTime" : 1547662119,
-    "last_content_update" : 1547662119052,
+    "lastKnownWriteTime" : 1547664512,
+    "last_content_update" : 1547664512285,
     "path" : "~/github/programming-with-R/sandbox/chapter-2.R",
     "project_path" : "sandbox/chapter-2.R",
     "properties" : {
+        "cursorPosition" : "9,28",
+        "scrollLine" : "9",
         "tempName" : "Untitled1"
     },
     "relative_order" : 1,
