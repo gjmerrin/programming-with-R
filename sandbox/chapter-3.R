@@ -158,12 +158,17 @@ df <- data.frame(face   = c("ace", "two", "six")
                  )
 str(df) # now "face" and "suit" are saved as character vectors
 # Loading Data 
-# START ON THE BOTTOM OF PAGE 57
-
-
-
-
-
+# Importing a data set with readr
+library(readr)
+deck <- read_csv("data/deck.csv")
+View(deck)
+# Can also use the import wizard 
+head(deck)
+head(deck, 10)
+# Saving Data
+write.csv(deck, file = "./data/derived-data/cards.csv", row.names = FALSE)
+getwd() # to veiw working directory
+?write.csv
 
 
 
