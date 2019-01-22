@@ -169,7 +169,7 @@ head(deck, 10)
 write.csv(deck, file = "./data/derived-data/cards.csv", row.names = FALSE)
 getwd() # to veiw working directory
 ?write.csv
-
+# See appendix D for more options
 
 
 
