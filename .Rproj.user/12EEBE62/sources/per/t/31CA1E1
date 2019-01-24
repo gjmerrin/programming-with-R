@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1027931150",
     "id" : "31CA1E1",
-    "lastKnownWriteTime" : 1548361511,
-    "last_content_update" : 1548361511603,
+    "lastKnownWriteTime" : 1548363389,
+    "last_content_update" : 1548363389507,
     "path" : "~/github/programming-with-R/sandbox/chapter-5.R",
     "project_path" : "sandbox/chapter-5.R",
     "properties" : {
+        "cursorPosition" : "51,18",
+        "scrollLine" : "19",
         "tempName" : "Untitled1"
     },
     "relative_order" : 1,
